@@ -1,8 +1,9 @@
-name = ("mari")
-surname = ("gogebashvili")
-age = (13)
+name = "mari"
+surname = "gogebashvili"
+age = "13"
 print (name + " " + surname + " " + age)
 
-A = ("10+5")
-a = ("10-5")
-print (A + a)
+#matematikuri operaciebi
+num1 = input (enter any number)
+num2 = input (enter any number)
+print (num1 + " " + num2)
