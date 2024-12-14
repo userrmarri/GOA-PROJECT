@@ -1,9 +1,8 @@
-print(input = "what is your number")
-print(input = "what is your number")
-a = 10
-b = 5
+a = int (input("please enter number"))
+b = int (input("please ebter number2"))
 
-a - b
-a + b
-a * b
-a / b
+print (a - b)
+print (a + b)
+print (a * b)
+print (a / b)
+
