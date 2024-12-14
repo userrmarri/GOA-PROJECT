@@ -5,7 +5,7 @@ favorite_animal = "cat"
 print (name + " " + surname)
 print (age)
 print (favorite_animal)
-print (name + " " + surname + " " + int (age) + " " + favorite_animal)
+print (name + " " + surname + " " + age + " " + favorite_animal)
 
 # matematikuri operaciebi
 print (5+5)

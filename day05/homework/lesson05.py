@@ -2,10 +2,12 @@
 
 
 # 1
-current_year = 2024
-print("The current year is " + current_year)
+#current_year = 2024
+#print("The current year is " + current_year)
 
-#es kodi sworia
+current_year = 2024
+print("The current year is " + str(current_year))
+
 
 
 # 2
@@ -14,14 +16,17 @@ print("The current year is " + current_year)
 
 # 2
 country = "USA"
-print("You are from") + ("Country")
+print("You are from" + country)
 
 
 # 3
-height = 180
-print("Your height in cm is " + height / 100 + " meters")
+#height = 180
+#print("Your height in cm is " + height / 100 + " meters")
 
-#sworia es kodi
+
+height = 180
+print("Your height in cm is " + str(height / 100) + " meters")
+
 
 
 # 4

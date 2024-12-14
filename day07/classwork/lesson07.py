@@ -1,3 +1,4 @@
 name =  input ("enter your name")
 surname = input ("enter your surname")
-print (name + " " + surname)
+age = input ("enter your age")
+print (name + " " + surname + " " + age)
